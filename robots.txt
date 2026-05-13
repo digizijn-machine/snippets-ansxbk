@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://digizijn-machine.github.io/snippets-ansxbk/sitemap.xml
